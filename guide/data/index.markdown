@@ -86,7 +86,7 @@ It provides for both copyright and the sui-generis right, though with some restr
 
 #### Pre-Database Directive
 
-Database protection has been around for quite a while indirectly both in Europe and elsewhere. In Europe many countries traditionally granted copyright based protection:
+Database protection has been around for quite a while indirectly both in Europe and elsewhere. In Europe many countries traditionally granted copyright-like based protection:
 
 1. Common law countries such as UK always had a '[sweat-of-the-brow](http://en.wikipedia.org/wiki/Sweat_of_the_brow)' approach.
 1. Nordic countries have long had a 'catalogue' right (since 1950s)
