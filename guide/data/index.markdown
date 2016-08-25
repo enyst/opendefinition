@@ -115,11 +115,18 @@ The US is a common-law jurisdiction. However, the Feist decision substantially r
 
 Thus, while a pure 'database' right does not exist, it seems likely that one can obtain a compilation copyright in some collections of data. Given this uncertainty, there is all the more reason to use an explicit license.
 
+FIXME add ProCD and Nimmer's analysis? Probably, yes.
+
+FIXME add Posner, Wiredata.
+
 #### US Data outside the US
 
 Furthermore we should note that even if data in the US had no IP protection it would not prevent said data being protected elsewhere (though note that the EU DB directive provides has reciprocity stipulations that mean a DB provider from a jurisdiction which does not provide DB protection will not be able to use the rights provided in the directive).
 
 For example, the information provided in a blog on open library catalog data[^3] appears to suggest the Library of Congress **charges** for its data to users outside of the US.
+
+FIXME this section belongs with 'Federal Gov Data', as two aspects, private and public data, of the same issue: lack of
+domestic copyright for data (and lack of compilation (c) in the second case additionally)
 
 #### Feist v. Rural
 
@@ -130,6 +137,12 @@ Feist Publications, Inc., v. Rural Telephone Service Co. was a Supreme Court cas
 #### Federal Government Data
 
 The US constitution mandates that the output of federal agencies be put into the public domain. This has the result that all government data is automatically put into the public domain.
+
+FIXME updated source: EFF's discussion in https://www.eff.org/deeplinks/2016/06/open-government-data-act-would-uh-open-go$
+
+Newer example agency claiming copyright: https://www.nlm.nih.gov/mesh/termscon.html
+
+FIXME Berne Convention: quote and discussion.
 
 Note however that this does not mean that those who use or build upon that data necessarily are placing *their* work in the public domain.
 
